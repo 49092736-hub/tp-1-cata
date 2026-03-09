@@ -45,7 +45,7 @@ body::after {
 	height: 360px;
 	right: -110px;
 	bottom: 6%;
-	background: radial-gradient(circle, rgba(111, 235, 255, 0.42) 0%, rgba(111, 235, 255, 0) 70%);
+	background: radial-gradient(circle, rgba(255, 111, 224, 0.42) 0%, rgba(111, 235, 255, 0) 70%);
 	animation: driftTwo 18s ease-in-out infinite;
 }
 
